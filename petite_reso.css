@@ -12,9 +12,10 @@
     ul
     {
         width:auto;
-        height: auto;
+        height: 80px;
         size: auto;
-        font-size: 1.2em;
+        font-size: 2em;
+        text-align: center;
     }
 
     .block1
