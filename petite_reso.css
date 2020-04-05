@@ -1,13 +1,18 @@
 @media all and (max-width:1024px)
 {
 
-    img,ul
+    img
     {
       
      width: 90%;
      
 
     } 
+
+    ul
+    {
+        width:auto;
+    }
 
     .bloc1
     {
