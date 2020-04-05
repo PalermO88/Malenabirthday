@@ -18,11 +18,16 @@
 
     .block1
     {
-        width:auto;
+        width:60%;
+        
     }
     
     .block2
     {
-        width:auto;
+        width:90%;
     }
-}
+
+    p
+    {
+        font-size: 1.2em;
+    }
