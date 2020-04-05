@@ -8,10 +8,6 @@
 
 }
 
-body
-{
-    background-color: white;
-}
 
 .conteneur2
 {
@@ -27,6 +23,8 @@ body
 body
 {
     font-family:cartoonregular,sans-serif;
+    background-color: white;
+    background-repeat: no-repeat;
 }
 
 h1,ul
@@ -63,11 +61,6 @@ footer
     text-align: right;
 }
 
-body
-{
-    background-color: ghostwhite;
-    background-repeat: no-repeat;
-}
 
 ul 
 {
