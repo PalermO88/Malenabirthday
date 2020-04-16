@@ -50,10 +50,14 @@
         font-size: 2.2em;
     }
    
-   video
+   video 
    { 
 
     width: 53em;
     }      
 
+    iframe
+    {
+        width: 53em;
+    }
 }
