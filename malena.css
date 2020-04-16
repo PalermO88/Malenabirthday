@@ -157,3 +157,15 @@ p
 {
     font-size: 1.3em;
 }
+
+.conteneur3
+{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    width: auto;
+    
+}
